@@ -1,9 +1,7 @@
 ## Hi there 👋 I am GURUVIGNESH K
 
 Studing SLA INSTITUDE @ DOTNET(.NET) Developer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
-- 🌱 I’m currently learning (C#,SQL and HTML,CSS) .NET
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                       - 🌱 I’m currently learning (C#,SQL and HTML,CSS) .NET
 - #EDUCATION CREDENTIALS
 - B.E.,(ELECTRICAL AND ELECTRONICS ENGG.)
 
